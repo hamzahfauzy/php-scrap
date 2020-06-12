@@ -1,0 +1,1354 @@
+[
+    [
+        {
+            "subdistrict_id":"1",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Arongan Lambalek"
+        },
+        {
+            "subdistrict_id":"2",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bubon"
+        },
+        {
+            "subdistrict_id":"3",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Johan Pahlawan"
+        },
+        {
+            "subdistrict_id":"4",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kaway XVI"
+        },
+        {
+            "subdistrict_id":"5",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Meureubo"
+        },
+        {
+            "subdistrict_id":"6",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pante Ceureumen (Pantai Ceuremen)"
+        },
+        {
+            "subdistrict_id":"7",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Panton Reu"
+        },
+        {
+            "subdistrict_id":"8",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Samatiga"
+        },
+        {
+            "subdistrict_id":"9",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sungai Mas"
+        },
+        {
+            "subdistrict_id":"10",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Woyla"
+        },
+        {
+            "subdistrict_id":"11",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Woyla Barat"
+        },
+        {
+            "subdistrict_id":"12",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"1",
+            "city":"Aceh Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Woyla Timur"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"13",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Babah Rot"
+        },
+        {
+            "subdistrict_id":"14",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Blang Pidie"
+        },
+        {
+            "subdistrict_id":"15",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Jeumpa"
+        },
+        {
+            "subdistrict_id":"16",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kuala Batee"
+        },
+        {
+            "subdistrict_id":"17",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lembah Sabil"
+        },
+        {
+            "subdistrict_id":"18",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Manggeng"
+        },
+        {
+            "subdistrict_id":"19",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Setia"
+        },
+        {
+            "subdistrict_id":"20",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Susoh"
+        },
+        {
+            "subdistrict_id":"21",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"2",
+            "city":"Aceh Barat Daya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tangan-Tangan"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"22",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Baitussalam"
+        },
+        {
+            "subdistrict_id":"23",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Blank Bintang"
+        },
+        {
+            "subdistrict_id":"24",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Imarah"
+        },
+        {
+            "subdistrict_id":"25",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Kamal"
+        },
+        {
+            "subdistrict_id":"26",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darussalam"
+        },
+        {
+            "subdistrict_id":"27",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Indrapuri"
+        },
+        {
+            "subdistrict_id":"28",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ingin Jaya"
+        },
+        {
+            "subdistrict_id":"29",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Cot Glie (Kuta Cot Glie)"
+        },
+        {
+            "subdistrict_id":"30",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Jantho"
+        },
+        {
+            "subdistrict_id":"31",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Malaka (Kuta Malaka)"
+        },
+        {
+            "subdistrict_id":"32",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Krueng Barona Jaya"
+        },
+        {
+            "subdistrict_id":"33",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kuta Baro"
+        },
+        {
+            "subdistrict_id":"34",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lembah Seulawah"
+        },
+        {
+            "subdistrict_id":"35",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Leupung"
+        },
+        {
+            "subdistrict_id":"36",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lhoknga (Lho'nga)"
+        },
+        {
+            "subdistrict_id":"37",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lhoong"
+        },
+        {
+            "subdistrict_id":"38",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Mantasiek (Montasik)"
+        },
+        {
+            "subdistrict_id":"39",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Mesjid Raya"
+        },
+        {
+            "subdistrict_id":"40",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peukan Bada"
+        },
+        {
+            "subdistrict_id":"41",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pulo Aceh"
+        },
+        {
+            "subdistrict_id":"42",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Seulimeum"
+        },
+        {
+            "subdistrict_id":"43",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Tiga"
+        },
+        {
+            "subdistrict_id":"44",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"3",
+            "city":"Aceh Besar",
+            "type":"Kabupaten",
+            "subdistrict_name":"Suka Makmur"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"45",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Hikmah"
+        },
+        {
+            "subdistrict_id":"46",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Indra Jaya"
+        },
+        {
+            "subdistrict_id":"47",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Jaya"
+        },
+        {
+            "subdistrict_id":"48",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Keude Panga"
+        },
+        {
+            "subdistrict_id":"49",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Krueng Sabee"
+        },
+        {
+            "subdistrict_id":"50",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pasie Raya"
+        },
+        {
+            "subdistrict_id":"51",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sampoiniet"
+        },
+        {
+            "subdistrict_id":"52",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Setia Bakti"
+        },
+        {
+            "subdistrict_id":"53",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"4",
+            "city":"Aceh Jaya",
+            "type":"Kabupaten",
+            "subdistrict_name":"Teunom"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"54",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bakongan"
+        },
+        {
+            "subdistrict_id":"55",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bakongan Timur"
+        },
+        {
+            "subdistrict_id":"56",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kluet Selatan"
+        },
+        {
+            "subdistrict_id":"57",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kluet Tengah"
+        },
+        {
+            "subdistrict_id":"58",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kluet Timur"
+        },
+        {
+            "subdistrict_id":"59",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kluet Utara"
+        },
+        {
+            "subdistrict_id":"60",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Bahagia"
+        },
+        {
+            "subdistrict_id":"61",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Labuhan Haji"
+        },
+        {
+            "subdistrict_id":"62",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Labuhan Haji Barat"
+        },
+        {
+            "subdistrict_id":"63",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Labuhan Haji Timur"
+        },
+        {
+            "subdistrict_id":"64",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Meukek"
+        },
+        {
+            "subdistrict_id":"65",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pasie Raja"
+        },
+        {
+            "subdistrict_id":"66",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sama Dua"
+        },
+        {
+            "subdistrict_id":"67",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sawang"
+        },
+        {
+            "subdistrict_id":"68",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tapak Tuan"
+        },
+        {
+            "subdistrict_id":"69",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Trumon"
+        },
+        {
+            "subdistrict_id":"70",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Trumon Tengah"
+        },
+        {
+            "subdistrict_id":"71",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"5",
+            "city":"Aceh Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Trumon Timur"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"72",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Danau Paris"
+        },
+        {
+            "subdistrict_id":"73",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Gunung Meriah (Mariah)"
+        },
+        {
+            "subdistrict_id":"74",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Baharu"
+        },
+        {
+            "subdistrict_id":"75",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kuala Baru"
+        },
+        {
+            "subdistrict_id":"76",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pulau Banyak"
+        },
+        {
+            "subdistrict_id":"77",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pulau Banyak Barat"
+        },
+        {
+            "subdistrict_id":"78",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Kanan"
+        },
+        {
+            "subdistrict_id":"79",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Singkil"
+        },
+        {
+            "subdistrict_id":"80",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Singkil Utara"
+        },
+        {
+            "subdistrict_id":"81",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Singkohor"
+        },
+        {
+            "subdistrict_id":"82",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"6",
+            "city":"Aceh Singkil",
+            "type":"Kabupaten",
+            "subdistrict_name":"Suro Makmur"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"83",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banda Mulia"
+        },
+        {
+            "subdistrict_id":"84",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bandar Pusaka"
+        },
+        {
+            "subdistrict_id":"85",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bendahara"
+        },
+        {
+            "subdistrict_id":"86",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Karang Baru"
+        },
+        {
+            "subdistrict_id":"87",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kejuruan Muda"
+        },
+        {
+            "subdistrict_id":"88",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kota Kuala Simpang"
+        },
+        {
+            "subdistrict_id":"89",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Manyak Payed"
+        },
+        {
+            "subdistrict_id":"90",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Rantau"
+        },
+        {
+            "subdistrict_id":"91",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sekerak"
+        },
+        {
+            "subdistrict_id":"92",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Seruway"
+        },
+        {
+            "subdistrict_id":"93",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tamiang Hulu"
+        },
+        {
+            "subdistrict_id":"94",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"7",
+            "city":"Aceh Tamiang",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tenggulun"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"95",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Atu Lintang"
+        },
+        {
+            "subdistrict_id":"96",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bebesen"
+        },
+        {
+            "subdistrict_id":"97",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bies"
+        },
+        {
+            "subdistrict_id":"98",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bintang"
+        },
+        {
+            "subdistrict_id":"99",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Celala"
+        },
+        {
+            "subdistrict_id":"100",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Jagong Jeget"
+        },
+        {
+            "subdistrict_id":"101",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kebayakan"
+        },
+        {
+            "subdistrict_id":"102",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ketol"
+        },
+        {
+            "subdistrict_id":"103",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kute Panang"
+        },
+        {
+            "subdistrict_id":"104",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Linge"
+        },
+        {
+            "subdistrict_id":"105",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lut Tawar"
+        },
+        {
+            "subdistrict_id":"106",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pegasing"
+        },
+        {
+            "subdistrict_id":"107",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Rusip Antara"
+        },
+        {
+            "subdistrict_id":"108",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"8",
+            "city":"Aceh Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Silih Nara"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"109",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Babul Makmur"
+        },
+        {
+            "subdistrict_id":"110",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Babul Rahmah"
+        },
+        {
+            "subdistrict_id":"111",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Babussalam"
+        },
+        {
+            "subdistrict_id":"112",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Badar"
+        },
+        {
+            "subdistrict_id":"113",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bambel"
+        },
+        {
+            "subdistrict_id":"114",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bukit Tusam"
+        },
+        {
+            "subdistrict_id":"115",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Hasanah"
+        },
+        {
+            "subdistrict_id":"116",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Deleng Pokhisen"
+        },
+        {
+            "subdistrict_id":"117",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ketambe"
+        },
+        {
+            "subdistrict_id":"118",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lawe Alas"
+        },
+        {
+            "subdistrict_id":"119",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lawe Bulan"
+        },
+        {
+            "subdistrict_id":"120",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lawe Sigala-Gala"
+        },
+        {
+            "subdistrict_id":"121",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lawe Sumur"
+        },
+        {
+            "subdistrict_id":"122",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Leuser"
+        },
+        {
+            "subdistrict_id":"123",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Semadam"
+        },
+        {
+            "subdistrict_id":"124",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"9",
+            "city":"Aceh Tenggara",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tanah Alas"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"125",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banda Alam"
+        },
+        {
+            "subdistrict_id":"126",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Birem Bayeun"
+        },
+        {
+            "subdistrict_id":"127",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Aman"
+        },
+        {
+            "subdistrict_id":"128",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Falah"
+        },
+        {
+            "subdistrict_id":"129",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Darul Iksan (Ihsan)"
+        },
+        {
+            "subdistrict_id":"130",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Idi Rayeuk"
+        },
+        {
+            "subdistrict_id":"131",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Idi Timur"
+        },
+        {
+            "subdistrict_id":"132",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Idi Tunong"
+        },
+        {
+            "subdistrict_id":"133",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Indra Makmur"
+        },
+        {
+            "subdistrict_id":"134",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Julok"
+        },
+        {
+            "subdistrict_id":"135",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Madat"
+        },
+        {
+            "subdistrict_id":"136",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Nurussalam"
+        },
+        {
+            "subdistrict_id":"137",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pante Bidari (Beudari)"
+        },
+        {
+            "subdistrict_id":"138",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peudawa"
+        },
+        {
+            "subdistrict_id":"139",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peunaron"
+        },
+        {
+            "subdistrict_id":"140",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peureulak"
+        },
+        {
+            "subdistrict_id":"141",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peureulak Barat"
+        },
+        {
+            "subdistrict_id":"142",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peureulak Timur"
+        },
+        {
+            "subdistrict_id":"143",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Rantau Selamat"
+        },
+        {
+            "subdistrict_id":"144",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ranto Peureulak"
+        },
+        {
+            "subdistrict_id":"145",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Serba Jadi"
+        },
+        {
+            "subdistrict_id":"146",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Jernih"
+        },
+        {
+            "subdistrict_id":"147",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Ulim"
+        },
+        {
+            "subdistrict_id":"148",
+            "province_id":"21",
+            "province":"Nanggroe Aceh Darussalam (NAD)",
+            "city_id":"10",
+            "city":"Aceh Timur",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sungai Raya"
+        }
+    ]
+]

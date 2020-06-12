@@ -1,0 +1,1525 @@
+[
+    [
+        {
+            "subdistrict_id":"287",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Bumi Waras"
+        },
+        {
+            "subdistrict_id":"288",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Enggal"
+        },
+        {
+            "subdistrict_id":"289",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Kedamaian"
+        },
+        {
+            "subdistrict_id":"290",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Kedaton"
+        },
+        {
+            "subdistrict_id":"291",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Kemiling"
+        },
+        {
+            "subdistrict_id":"292",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Labuhan Ratu"
+        },
+        {
+            "subdistrict_id":"293",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Langkapura"
+        },
+        {
+            "subdistrict_id":"294",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Panjang"
+        },
+        {
+            "subdistrict_id":"295",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Rajabasa"
+        },
+        {
+            "subdistrict_id":"296",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Sukabumi"
+        },
+        {
+            "subdistrict_id":"297",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Sukarame"
+        },
+        {
+            "subdistrict_id":"298",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Tanjung Karang Barat"
+        },
+        {
+            "subdistrict_id":"299",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Tanjung Karang Pusat"
+        },
+        {
+            "subdistrict_id":"300",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Tanjung Karang Timur"
+        },
+        {
+            "subdistrict_id":"301",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Tanjung Senang"
+        },
+        {
+            "subdistrict_id":"302",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Telukbetung Barat"
+        },
+        {
+            "subdistrict_id":"303",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Telukbetung Selatan"
+        },
+        {
+            "subdistrict_id":"304",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Telukbetung Timur"
+        },
+        {
+            "subdistrict_id":"305",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Telukbetung Utara"
+        },
+        {
+            "subdistrict_id":"306",
+            "province_id":"18",
+            "province":"Lampung",
+            "city_id":"21",
+            "city":"Bandar Lampung",
+            "type":"Kota",
+            "subdistrict_name":"Way Halim"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"307",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Arjasari"
+        },
+        {
+            "subdistrict_id":"308",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Baleendah"
+        },
+        {
+            "subdistrict_id":"309",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banjaran"
+        },
+        {
+            "subdistrict_id":"310",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bojongsoang"
+        },
+        {
+            "subdistrict_id":"311",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cangkuang"
+        },
+        {
+            "subdistrict_id":"312",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cicalengka"
+        },
+        {
+            "subdistrict_id":"313",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cikancung"
+        },
+        {
+            "subdistrict_id":"314",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cilengkrang"
+        },
+        {
+            "subdistrict_id":"315",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cileunyi"
+        },
+        {
+            "subdistrict_id":"316",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cimaung"
+        },
+        {
+            "subdistrict_id":"317",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cimeunyan"
+        },
+        {
+            "subdistrict_id":"318",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ciparay"
+        },
+        {
+            "subdistrict_id":"319",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ciwidey"
+        },
+        {
+            "subdistrict_id":"320",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Dayeuhkolot"
+        },
+        {
+            "subdistrict_id":"321",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ibun"
+        },
+        {
+            "subdistrict_id":"322",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Katapang"
+        },
+        {
+            "subdistrict_id":"323",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kertasari"
+        },
+        {
+            "subdistrict_id":"324",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kutawaringin"
+        },
+        {
+            "subdistrict_id":"325",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Majalaya"
+        },
+        {
+            "subdistrict_id":"326",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Margaasih"
+        },
+        {
+            "subdistrict_id":"327",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Margahayu"
+        },
+        {
+            "subdistrict_id":"328",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Nagreg"
+        },
+        {
+            "subdistrict_id":"329",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pacet"
+        },
+        {
+            "subdistrict_id":"330",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pameungpeuk"
+        },
+        {
+            "subdistrict_id":"331",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pangalengan"
+        },
+        {
+            "subdistrict_id":"332",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Paseh"
+        },
+        {
+            "subdistrict_id":"333",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pasirjambu"
+        },
+        {
+            "subdistrict_id":"334",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ranca Bali"
+        },
+        {
+            "subdistrict_id":"335",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Rancaekek"
+        },
+        {
+            "subdistrict_id":"336",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Solokan Jeruk"
+        },
+        {
+            "subdistrict_id":"337",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"22",
+            "city":"Bandung",
+            "type":"Kabupaten",
+            "subdistrict_name":"Soreang"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"338",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Andir"
+        },
+        {
+            "subdistrict_id":"339",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Antapani (Cicadas)"
+        },
+        {
+            "subdistrict_id":"340",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Arcamanik"
+        },
+        {
+            "subdistrict_id":"341",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Astana Anyar"
+        },
+        {
+            "subdistrict_id":"342",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Babakan Ciparay"
+        },
+        {
+            "subdistrict_id":"343",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Bandung Kidul"
+        },
+        {
+            "subdistrict_id":"344",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Bandung Kulon"
+        },
+        {
+            "subdistrict_id":"345",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Bandung Wetan"
+        },
+        {
+            "subdistrict_id":"346",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Batununggal"
+        },
+        {
+            "subdistrict_id":"347",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Bojongloa Kaler"
+        },
+        {
+            "subdistrict_id":"348",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Bojongloa Kidul"
+        },
+        {
+            "subdistrict_id":"349",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Buahbatu (Margacinta)"
+        },
+        {
+            "subdistrict_id":"350",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cibeunying Kaler"
+        },
+        {
+            "subdistrict_id":"351",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cibeunying Kidul"
+        },
+        {
+            "subdistrict_id":"352",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cibiru"
+        },
+        {
+            "subdistrict_id":"353",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cicendo"
+        },
+        {
+            "subdistrict_id":"354",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cidadap"
+        },
+        {
+            "subdistrict_id":"355",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Cinambo"
+        },
+        {
+            "subdistrict_id":"356",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Coblong"
+        },
+        {
+            "subdistrict_id":"357",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Gedebage"
+        },
+        {
+            "subdistrict_id":"358",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Kiaracondong"
+        },
+        {
+            "subdistrict_id":"359",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Lengkong"
+        },
+        {
+            "subdistrict_id":"360",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Mandalajati"
+        },
+        {
+            "subdistrict_id":"361",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Panyileukan"
+        },
+        {
+            "subdistrict_id":"362",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Rancasari"
+        },
+        {
+            "subdistrict_id":"363",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Regol"
+        },
+        {
+            "subdistrict_id":"364",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Sukajadi"
+        },
+        {
+            "subdistrict_id":"365",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Sukasari"
+        },
+        {
+            "subdistrict_id":"366",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Sumur Bandung"
+        },
+        {
+            "subdistrict_id":"367",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"23",
+            "city":"Bandung",
+            "type":"Kota",
+            "subdistrict_name":"Ujung Berung"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"368",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Batujajar"
+        },
+        {
+            "subdistrict_id":"369",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cihampelas"
+        },
+        {
+            "subdistrict_id":"370",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cikalong Wetan"
+        },
+        {
+            "subdistrict_id":"371",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cililin"
+        },
+        {
+            "subdistrict_id":"372",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cipatat"
+        },
+        {
+            "subdistrict_id":"373",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cipeundeuy"
+        },
+        {
+            "subdistrict_id":"374",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cipongkor"
+        },
+        {
+            "subdistrict_id":"375",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Cisarua"
+        },
+        {
+            "subdistrict_id":"376",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Gununghalu"
+        },
+        {
+            "subdistrict_id":"377",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lembang"
+        },
+        {
+            "subdistrict_id":"378",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Ngamprah"
+        },
+        {
+            "subdistrict_id":"379",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Padalarang"
+        },
+        {
+            "subdistrict_id":"380",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Parongpong"
+        },
+        {
+            "subdistrict_id":"381",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Rongga"
+        },
+        {
+            "subdistrict_id":"382",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Saguling"
+        },
+        {
+            "subdistrict_id":"383",
+            "province_id":"9",
+            "province":"Jawa Barat",
+            "city_id":"24",
+            "city":"Bandung Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sindangkerta"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"384",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Balantak"
+        },
+        {
+            "subdistrict_id":"385",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Balantak Selatan"
+        },
+        {
+            "subdistrict_id":"386",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Balantak Utara"
+        },
+        {
+            "subdistrict_id":"387",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Batui"
+        },
+        {
+            "subdistrict_id":"388",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Batui Selatan"
+        },
+        {
+            "subdistrict_id":"389",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bualemo (Boalemo)"
+        },
+        {
+            "subdistrict_id":"390",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bunta"
+        },
+        {
+            "subdistrict_id":"391",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kintom"
+        },
+        {
+            "subdistrict_id":"392",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lamala"
+        },
+        {
+            "subdistrict_id":"393",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lobu"
+        },
+        {
+            "subdistrict_id":"394",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Luwuk"
+        },
+        {
+            "subdistrict_id":"395",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Luwuk Selatan"
+        },
+        {
+            "subdistrict_id":"396",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Luwuk Timur"
+        },
+        {
+            "subdistrict_id":"397",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Luwuk Utara"
+        },
+        {
+            "subdistrict_id":"398",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Mantoh"
+        },
+        {
+            "subdistrict_id":"399",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Masama"
+        },
+        {
+            "subdistrict_id":"400",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Moilong"
+        },
+        {
+            "subdistrict_id":"401",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Nambo"
+        },
+        {
+            "subdistrict_id":"402",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Nuhon"
+        },
+        {
+            "subdistrict_id":"403",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pagimana"
+        },
+        {
+            "subdistrict_id":"404",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Raya"
+        },
+        {
+            "subdistrict_id":"405",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Toili"
+        },
+        {
+            "subdistrict_id":"406",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"25",
+            "city":"Banggai",
+            "type":"Kabupaten",
+            "subdistrict_name":"Toili Barat"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"407",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banggai"
+        },
+        {
+            "subdistrict_id":"408",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banggai Selatan"
+        },
+        {
+            "subdistrict_id":"409",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banggai Tengah"
+        },
+        {
+            "subdistrict_id":"410",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Banggai Utara"
+        },
+        {
+            "subdistrict_id":"411",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bangkurung"
+        },
+        {
+            "subdistrict_id":"412",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bokan Kepulauan"
+        },
+        {
+            "subdistrict_id":"413",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Buko"
+        },
+        {
+            "subdistrict_id":"414",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Buko Selatan"
+        },
+        {
+            "subdistrict_id":"415",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bulagi"
+        },
+        {
+            "subdistrict_id":"416",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bulagi Selatan"
+        },
+        {
+            "subdistrict_id":"417",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bulagi Utara"
+        },
+        {
+            "subdistrict_id":"418",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Labobo (Lobangkurung)"
+        },
+        {
+            "subdistrict_id":"419",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Liang"
+        },
+        {
+            "subdistrict_id":"420",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Peling Tengah"
+        },
+        {
+            "subdistrict_id":"421",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tinangkung"
+        },
+        {
+            "subdistrict_id":"422",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tinangkung Selatan"
+        },
+        {
+            "subdistrict_id":"423",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tinangkung Utara"
+        },
+        {
+            "subdistrict_id":"424",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Totikum (Totikung)"
+        },
+        {
+            "subdistrict_id":"425",
+            "province_id":"29",
+            "province":"Sulawesi Tengah",
+            "city_id":"26",
+            "city":"Banggai Kepulauan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Totikum Selatan"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"426",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Bakam"
+        },
+        {
+            "subdistrict_id":"427",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Belinyu"
+        },
+        {
+            "subdistrict_id":"428",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Mendo Barat"
+        },
+        {
+            "subdistrict_id":"429",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Merawang"
+        },
+        {
+            "subdistrict_id":"430",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pemali"
+        },
+        {
+            "subdistrict_id":"431",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Puding Besar"
+        },
+        {
+            "subdistrict_id":"432",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Riau Silip"
+        },
+        {
+            "subdistrict_id":"433",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"27",
+            "city":"Bangka",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sungai Liat"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"434",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Jebus"
+        },
+        {
+            "subdistrict_id":"435",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kelapa"
+        },
+        {
+            "subdistrict_id":"436",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Mentok (Muntok)"
+        },
+        {
+            "subdistrict_id":"437",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Parittiga"
+        },
+        {
+            "subdistrict_id":"438",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Teritip"
+        },
+        {
+            "subdistrict_id":"439",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"28",
+            "city":"Bangka Barat",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tempilang"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"440",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Air Gegas"
+        },
+        {
+            "subdistrict_id":"441",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Kepulauan Pongok"
+        },
+        {
+            "subdistrict_id":"442",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lepar Pongok"
+        },
+        {
+            "subdistrict_id":"443",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Payung"
+        },
+        {
+            "subdistrict_id":"444",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pulau Besar"
+        },
+        {
+            "subdistrict_id":"445",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Rimba"
+        },
+        {
+            "subdistrict_id":"446",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Toboali"
+        },
+        {
+            "subdistrict_id":"447",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"29",
+            "city":"Bangka Selatan",
+            "type":"Kabupaten",
+            "subdistrict_name":"Tukak Sadai"
+        }
+    ],
+    [
+        {
+            "subdistrict_id":"448",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Koba"
+        },
+        {
+            "subdistrict_id":"449",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Lubuk Besar"
+        },
+        {
+            "subdistrict_id":"450",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Namang"
+        },
+        {
+            "subdistrict_id":"451",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Pangkalan Baru"
+        },
+        {
+            "subdistrict_id":"452",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Simpang Katis"
+        },
+        {
+            "subdistrict_id":"453",
+            "province_id":"2",
+            "province":"Bangka Belitung",
+            "city_id":"30",
+            "city":"Bangka Tengah",
+            "type":"Kabupaten",
+            "subdistrict_name":"Sungai Selan"
+        }
+    ]
+]
